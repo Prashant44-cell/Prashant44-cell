@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Prashant Gupta</h1>
-<img src[="https://drive.google.com/uc?export=view&id=1ycUTek46yM0BTtIvrzUCl1NobD2W4net](https://drive.google.com/file/d/1GeHH8rpbcThRCQm_4vpXElyhYTkhHnW0/view?usp=sharing)" alt="banner that says Prashant Gupta - Curiosity and Evidence Can Change the Whole World">
+<!-- <img src[="https://drive.google.com/uc?export=view&id=1ycUTek46yM0BTtIvrzUCl1NobD2W4net](https://drive.google.com/file/d/1GeHH8rpbcThRCQm_4vpXElyhYTkhHnW0/view?usp=sharing)" alt="banner that says Prashant Gupta - Curiosity and Evidence Can Change the Whole World"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant44-cell&label=Profile%20views&color=0e75b6&style=flat" alt="prashant44-cell" /> </p>
