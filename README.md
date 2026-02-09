@@ -1,12 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Prashant Gupta</h1>
+<img src[="https://drive.google.com/uc?export=view&id=1ycUTek46yM0BTtIvrzUCl1NobD2W4net](https://drive.google.com/file/d/1GeHH8rpbcThRCQm_4vpXElyhYTkhHnW0/view?usp=sharing)" alt="banner that says Prashant Gupta - Curiosity and Evidence Can Change the Whole World">
 
-<h3 align="center">A passionate Software Devloper.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant44-cell&label=Profile%20views&color=0e75b6&style=flat" alt="prashant44-cell" /> </p>
-
-- 📫 How to reach me **prashantvyahut.work@gmail.com**
-
-<h2><a href="https://vyhant.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a></h2>
 
 - ⚡Fun fact **Currently vibing in Chennnai, where even browser tabs scream ‘Hello World.’ Proof that coding clichés aren’t just lines of code… they’re a whole lifestyle choice." 💻🌍✨**
 
@@ -18,4 +14,4 @@
 ## Find me around the web 🌎:
 - Professional updates on <a href="https://www.linkedin.com/in/vyahut/"> LinkedIn</a> 💼
 - Professional website as <a href="https://vyhant.vercel.app/">Portfolio</a>
-
+- Any freelance work? do reach, [email](prashantvyahut.work@gmail.com) 📧
